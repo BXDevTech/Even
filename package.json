@@ -1,0 +1,10 @@
+{
+  "name": "new-project",
+  "author": "BXDevTech",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest",
+    "axios": "^0.26.1",
+    "parse-ms": "^3.0.0"
+  }
+}

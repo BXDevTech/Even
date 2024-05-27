@@ -1,0 +1,92 @@
+{
+  "name": "buuyaxd/discordbot-eve1",
+  "timeout": 10000,
+  "connector": false,
+  "events": {
+    "functions/events/discord/presence/update/activity.js": {
+      "name": "discord.presence.update.activity"
+    },
+    "functions/events/discord/message/create.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/message/create/prefix/ping.js": {
+      "name": "discord.message.create.prefix",
+      "subtype": {
+        "prefix": "^ping"
+      }
+    },
+    "functions/events/discord/bot/guild/joined.js": {
+      "name": "discord.bot.guild.joined"
+    },
+    "functions/events/discord/message/create/prefix/help.js": {
+      "name": "discord.message.create.prefix",
+      "subtype": {
+        "prefix": "^help"
+      }
+    },
+    "functions/events/discord/bot_mention.js": {
+      "name": "discord.bot_mention"
+    },
+    "functions/events/discord/message/create/prefix/invite.js": {
+      "name": "discord.message.create.prefix",
+      "subtype": {
+        "prefix": "^invite"
+      }
+    },
+    "functions/events/discord/message/create/prefix/vote.js": {
+      "name": "discord.message.create.prefix",
+      "subtype": {
+        "prefix": "^vote"
+      }
+    },
+    "functions/events/discord/message/create/prefix/info.js": {
+      "name": "discord.message.create.prefix",
+      "subtype": {
+        "prefix": "^info"
+      }
+    },
+    "functions/events/discord/message/create/prefix/dance.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/message/create/prefix/happy.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/message/create/prefix/sad.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/message/create/prefix/slap.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/message/create/prefix/wink.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/message/create/prefix/lol.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/message/create/prefix/angry.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/message/create/prefix/gif.js": {
+      "name": "discord.message.create.prefix",
+      "subtype": {
+        "prefix": "^gif"
+      }
+    },
+    "functions/events/discord/message/create/prefix/anime.js": {
+      "name": "discord.message.create.prefix",
+      "subtype": {
+        "prefix": "^anime"
+      }
+    }
+  },
+  "env": [
+    {
+      "name": "PREFIX",
+      "description": "Prefix of your bot"
+    },
+    {
+      "name": "Key",
+      "description": "Unique Key"
+    }
+  ]
+}
