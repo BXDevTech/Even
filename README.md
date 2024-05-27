@@ -4,7 +4,7 @@
 
 ### Featured Project: Even - Discord Bot
 
-<img src="assets/even_logo.png" alt="Even Logo" width="200"/> <img src="assets/even_banner.png" alt="Even Banner" width="620"/>
+<img src="https://github.com/BXDevTech/Even/blob/main/Assets/even_logo.png" alt="Even Logo" width="200"/> <img src="https://github.com/BXDevTech/Even/blob/main/Assets/even_banner.png" alt="Even Banner" width="620"/>
 
 ### What is Even?
 
@@ -52,16 +52,17 @@ For more detailed instructions or troubleshooting, refer to the [Heroku Document
 ## Visual Preview
 
 ### Screenshot 1
-![Screenshot 1](assets/even_profile.png "Benin Profile On Discord")
+![Screenshot 1](https://github.com/BXDevTech/Even/blob/main/Assets/even_profile.png "Even Profile On Discord")
 
 ### Screenshot 2
-![Screenshot 2](assets/even_help.jpg "Even Help Command")
+![Screenshot 2](https://github.com/BXDevTech/Even/blob/main/Assets/Even_help.jpg "Even Help Command")
 
 ### Screenshot 3
-![Screenshot 3](assets/even_trace.jpg "Even Trace Command")
+![Screenshot 3](https://github.com/BXDevTech/Even/blob/main/Assets/Even_trace.jpg "Even Trace Command")
 
 ### Screenshot 4
-![Screenshot 4](assets/even_waifu.jpg "Even Waifu Command")
+![Screenshot 4](https://github.com/BXDevTech/Even/blob/main/Assets/even_waifu.jpg "Even Waifu Command")
+
 ### Commands
 
 - **help** : This commands shows you what commands this bot have
