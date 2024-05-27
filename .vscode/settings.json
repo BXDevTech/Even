@@ -1,8 +1,0 @@
-{
-    "vscord.app.id": "969286253117833246",
-    "vscord.app.name": "Custom",
-    "vscord.app.privacyMode.enable": false,
-    "vscord.status.idle.check": true,
-    "vscord.status.idle.resetElapsedTime": false,
-    "vscord.status.idle.timeout": 400
-}
